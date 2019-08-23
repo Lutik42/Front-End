@@ -1,0 +1,33 @@
+body{
+
+}
+
+#main{
+    margin:0 auto;
+
+width: 960px;
+}
+
+#hat{
+    height:200px;
+    background-color: #ccc;
+}
+#center{
+    width:650px;
+    height:800px;
+    float:left;
+    background-color:rgb(201, 44, 44);
+}
+
+#side{
+    height:800px;
+    float:right;
+    width: 310px;
+    background-color: #bbb;
+}
+
+#underground {
+    clear:both;
+    height: 40px;
+    background-color:#aaa;
+}
