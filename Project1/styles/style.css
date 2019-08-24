@@ -1,0 +1,126 @@
+#block1{
+    height:144px;
+    width: 100%;
+    background-color: #ccc;
+}
+
+#block2{
+height: 800px;
+width:100%;
+background-color: #cca;
+}
+
+#block3{
+    height:2380px;
+    width:100%;
+   background-color: blue;
+}
+
+#block3main{
+    margin:0 auto;
+    height: 2280px;
+    width: 60%;
+    background-color:rgb(255, 6, 6);
+    position: relative;
+    top:50px;
+}
+
+#block3main1{
+    margin:0 auto;
+    height:570px;
+    width: 60%;
+    background-color:rgb(255, 6, 255);
+    position: relative;
+}
+
+#block3main11{
+    float:left;
+    height:500px;
+    width:23%;
+    background-color: blueviolet;
+    position: relative;
+
+}
+
+#block3main12{
+    float:right;
+    height:380px;
+    width:29%;
+    background-color: crimson;
+}
+
+#block3main2{
+    margin:0 auto;
+    height: 530px;
+    width: 60%;
+    background-color:rgb(6, 255, 234);
+}
+
+#block3main3{
+    margin:0 auto;
+    height: 1180px;
+    width: 60%;
+    background-color:rgb(218, 255, 6);
+    position:relative;
+}
+
+#block3main31{
+    float:left;
+height:600px;
+width:30%;
+position:relative;
+top:25px;
+left:25px;
+
+background-color: azure;
+}
+
+#block3main32{
+    float:right;
+height:600px;
+width:30%;
+position:relative;
+top:25px;
+right:25px;
+background-color: brown;
+}
+
+#block3main33{
+height:540px;
+width:40%;
+position:relative;
+top:625px;
+left:25px;
+background-color: chartreuse;
+}
+
+#block4{
+    height:550px;
+    width: 100%;
+    background-color: #baa;
+}
+
+#block5{
+    height:1385px;
+    width:100%;
+    background-color: rgb(42, 187, 131);
+    position: absolute;
+}
+
+#block51{
+    margin:0 auto;
+    height: 1100px;
+    width:36%;
+    background-color: black;
+    position:relative;
+
+    
+}
+#block52{
+    margin: 0 auto;
+    height:200px;
+    width:60%;
+   position: static;
+bottom: 50px;
+    background-color: aqua;
+}
