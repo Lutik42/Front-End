@@ -124,3 +124,66 @@ background-color: chartreuse;
 bottom: 50px;
     background-color: aqua;
 }
+
+@media (max-width: 425px)
+{
+    .block1{
+        width: 100%;
+        height:60%;
+    }
+    .block2{
+        width: 100%;
+        height:650px;
+    }
+    .block3{
+        height: 3400px; 
+        width:100%;
+    }
+
+    .block3main{
+        height: 3400px; 
+        width:100%;
+    }
+    
+    .block3main31{
+        height:300px;
+        width: 90%;
+    }
+    .block3main32{
+        height:400px;
+        width: 90%;
+    }
+    .block3main33{
+        height:500px;
+        width: 90%;
+    }
+    .block3main2{
+        height:100px;
+        width:100%;
+    }
+    .block3main11{
+        height:1300px;
+        width:90%;
+    }
+    .block3main12{
+        height:600px;
+        width:90%;
+    }
+
+    .block4{
+        width:100%;
+        height:400px;
+    }
+    .block5{
+        height:1620px;
+    }
+    .block51{
+        width:100%;
+        height:1480px;
+    }
+    .block52{
+        width:100%;
+        height:130px;
+    }
+
+}
