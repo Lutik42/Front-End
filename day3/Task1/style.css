@@ -5,16 +5,57 @@ body{
 
 header{
    
+<<<<<<< HEAD
     width: 100%;
+=======
+    width: 100%;;
+>>>>>>> 13474a69f3ebe704755e2acdf47ede48a922962f
     height:100px;
 background-color: rgb(110, 110, 110);
 }
 
+<<<<<<< HEAD
 .header_left{
     width:50%;
     height: 100px;
     float:left;
     background-color: green;
+=======
+header span{
+    font-size:25px;
+}
+
+@media  (max-width:600px){
+   
+    header{
+        width: 100%;
+    }
+
+    .Content{
+        width: 90%;
+        margin:0 auto;
+        height: 100px;
+        background-color: brown;
+    }
+   
+    body{
+        background-color: bisque;
+    }
+   
+}
+
+.Content{
+width: 100%;
+height: 750px;
+background-color: rgb(219, 213, 213);
+text-align:center;
+border-radius: 40px;
+}
+
+.letter{
+    font-size:200%;
+    text-decoration: underline;
+>>>>>>> 13474a69f3ebe704755e2acdf47ede48a922962f
 }
 .header_right{
     width:50%;
